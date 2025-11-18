@@ -3,7 +3,6 @@
 ### **Middle Full-Stack Developer**
 
 📍 **Локация:** г. Москва, удаленная работа
-📞 **Телефон:** +7 (993) 589-63-46 | ✉ **Telegram:** [@fleshweak](https://t.me/fleshweak)
 
 ---
 ## **🛠 Технологии и навыки**
